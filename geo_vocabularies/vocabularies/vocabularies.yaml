@@ -17,3 +17,7 @@ subjects:
       name: Fields of Science and Technology
       uri: "http://www.oecd.org/science/inno/38235147.pdf"
       data-file: data-files/subjects_oecd_fos.yaml
+
+relationtypes:
+  pid-type: rlt
+  data-file: data-files/relation_types.yaml
