@@ -8,6 +8,8 @@
 Changes
 =======
 
-Version 0.1.0 (released TBD)
+Version 0.8.0 (2021-11-24)
+--------------------------
 
-- Initial public release.
+- Initial custom vocabularies for the GEO Knowledge Hub;
+- Based on `InvenioRDM 6.0 <https://inveniordm.docs.cern.ch/releases/versions/version-v6.0.0/>`_ vocabularies.
