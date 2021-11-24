@@ -5,25 +5,32 @@
     modify it under the terms of the MIT License; see LICENSE file for more
     details.
 
-==================
- geo-vocabularies
-==================
+===============================
+GEO Knowledge Hub Vocabularies
+===============================
 
-.. image:: https://github.com/geo-knowledge-hub/geo-vocabularies/workflows/CI/badge.svg
-        :target: https://github.com/geo-knowledge-hub/geo-vocabularies/actions?query=workflow%3ACI
+
+.. image:: https://img.shields.io/badge/license-MIT-green
+        :target: https://github.com/geo-knowledge-hub/geo-vocabularies/blob/master/LICENSE
+        :alt: Software License
+        
+.. image:: https://readthedocs.org/projects/geo_vocabularies/badge/?version=latest
+        :target: https://geo_vocabularies.readthedocs.io/en/latest/
+        :alt: Documentation Status
+
+.. image:: https://img.shields.io/badge/lifecycle-maturing-blue.svg
+        :target: https://www.tidyverse.org/lifecycle/#maturing
+        :alt: Software Life Cycle
 
 .. image:: https://img.shields.io/github/tag/geo-knowledge-hub/geo-vocabularies.svg
         :target: https://github.com/geo-knowledge-hub/geo-vocabularies/releases
+        
+        
+.. image:: https://img.shields.io/discord/730739436551143514?logo=discord&logoColor=ffffff&color=7389D8
+        :target: https://discord.com/channels/730739436551143514#
+        :alt: Join us at Discord
 
-.. image:: https://img.shields.io/pypi/dm/geo-vocabularies.svg
-        :target: https://pypi.python.org/pypi/geo-vocabularies
+About
+-----
 
-.. image:: https://img.shields.io/github/license/geo-knowledge-hub/geo-vocabularies.svg
-        :target: https://github.com/geo-knowledge-hub/geo-vocabularies/blob/master/LICENSE
-
-Custom InvenioRDM vocabularies for the GEO Knowledge Hub Digital Library
-
-TODO: Please provide feature overview of module
-
-Further documentation is available on
-https://geo-vocabularies.readthedocs.io/
+Custom InvenioRDM vocabularies for the GEO Knowledge Hub Digital Library.
