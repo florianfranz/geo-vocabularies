@@ -11,4 +11,4 @@ This file is imported by ``geo_vocabularies.__init__``,
 and parsed by ``setup.py``.
 """
 
-__version__ = '0.8.0'
+__version__ = '1.0.0'
