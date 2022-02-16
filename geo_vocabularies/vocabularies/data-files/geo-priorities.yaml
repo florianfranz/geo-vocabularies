@@ -1,0 +1,140 @@
+- id: sdg1
+  props:
+     Long: End poverty in all its forms everywhere
+     Short: No Poverty
+     Icon: SDG_icons/E_SDG_PRINT-01.jpg
+  title:
+     en: SDG 1 - No Poverty
+- id: sdg2
+  props:
+     Long: End hunger, achieve food security and improved nutrition and promote sustainable agriculture
+     Short: Zero Hunger
+     Icon: SDG_icons/E_SDG_PRINT-02.jpg
+  title:
+     en: SDG 2 - Zero Hunger
+- id: sdg3
+  props:
+     Long: Ensure healthy lives and promote well-being for all at all ages
+     Short: Good Health and Well-being
+     Icon: SDG_icons/E_SDG_PRINT-03.jpg
+  title:
+     en: SDG 3 - Good Health and Well-being
+- id: sdg4
+  props:
+     Long: Ensure inclusive and equitable quality education and promote lifelong learning opportunities 
+     Short: Quality Education
+     Icon: SDG_icons/E_SDG_PRINT-04.jpg
+  title:
+     en: SDG 4 - Quality Education
+- id: sdg5
+  props:
+     Long: Achieve gender equality and empower all women and girls
+     Short: Gender Equality
+     Icon: SDG_icons/E_SDG_PRINT-05.jpg
+  title:
+     en: SDG 5 - Gender Equality
+- id: sdg6
+  props:
+     Long: Ensure availability and sustainable management of water and sanitation for all
+     Short: Clean water and sanitation
+     Icon: SDG_icons/E_SDG_PRINT-06.jpg
+  title:
+     en: SDG 6 - Clean water and sanitation
+- id: sdg7
+  props:
+     Long: Ensure access to affordable, reliable, sustainable and modern energy for all
+     Short: Affordable and clean energy
+     Icon: SDG_icons/E_SDG_PRINT-07.jpg
+  title:
+     en: SDG 7 - Affordable and clean energy
+- id: sdg8
+  props:
+     Long: Promote sustained, inclusive and sustainable economic growth, full and productive 
+     Short: Decent jobs and economic growth
+     Icon: SDG_icons/E_SDG_PRINT-08.jpg
+  title:
+     en:SDG 8 - Decent jobs and economic growth
+- id: sdg9
+  props:
+     Long: Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation
+     Short: Industry, innovation and infrastructure
+     Icon: SDG_icons/E_SDG_PRINT-09.jpg
+  title:
+     en: SDG 9 - Industry, innovation and infrastructure
+- id: sdg10
+  props:
+     Long: Reduce inequality within and among countries
+     Short: Reduced inequalities
+     Icon: SDG_icons/E_SDG_PRINT-10.jpg
+  title:
+     en: SDG 10 - Reduced inequalities
+- id: sdg11
+  props:
+     Long: Make cities and human settlements inclusive, safe, resilient and sustainable
+     Short: Sustainable cities and communities
+     Icon: SDG_icons/E_SDG_PRINT-11.jpg
+  title:
+     en: SDG 11 - Sustainable cities and communities
+- id: sdg12
+  props:
+     Long: Ensure sustainable consumption and production patterns
+     Short: Responsible consumption and production
+     Icon: SDG_icons/E_SDG_PRINT-12.jpg
+  title:
+     en: SDG 12 - Responsible consumption and production
+- id: sdg13
+  props:
+     Long: Take urgent action to combat climate change and its impacts
+     Short: Climate action
+     Icon: SDG_icons/E_SDG_PRINT-13.jpg
+  title:
+     en: SDG 13 - Climate action
+- id: sdg14
+  props:
+     Long: Conserve and sustainably use the oceans, seas and marine resources for sustainable development
+     Short: Life below water
+     Icon: SDG_icons/E_SDG_PRINT-14.jpg
+  title:
+     en: SDG 14 - Life below water
+- id: sdg15
+  props:
+     Long: Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and halt biodiversity loss
+     Short: Life on land
+     Icon: SDG_icons/E_SDG_PRINT-15.jpg
+  title:
+     en: SDG 15 - Life on land
+- id: sdg16
+  props:
+     Long: Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels
+     Short: Peace And Justice - Strong Institutions
+     Icon: SDG_icons/E_SDG_PRINT-16.jpg
+  title:
+     en: SDG 16 - Peace And Justice - Strong Institutions
+- id: sdg17
+  props:
+     Long: Strengthen the means of implementation and revitalize the global partnership for sustainable development
+     Short: Partnerships for the goals
+     Icon: SDG_icons/E_SDG_PRINT-17.jpg
+  title:
+     en: SDG 17 - Partnerships for the goals
+- id: climate-action
+  props:
+     Long: Climate Action
+     Short: Climate Action
+     Icon: N/A
+  title:
+     en: Climate Action
+- id: disasters-risk-reduction
+  props:
+     Long: Disaster Risk Reduction
+     Short: DRR
+     Icon: N/A
+  title:
+     en: Disaster Risk Reduction
+- id:
+  props:
+     Long: Resilient Cities and Human Settlements
+     Short: Resilient Cities and Human Settlements
+     Icon: N/A
+  title:
+     en: Resilient Cities and Human Settlements
